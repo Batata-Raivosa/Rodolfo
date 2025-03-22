@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rodolfo Desenvolvedor Front-end</p>
+<p align="left">Meu nome é Rodolfo, e eu sou um desenvolvedor Front-end</p>
 
 ###
 
